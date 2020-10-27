@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Item Component renders Item component 1`] = `
+<DocumentFragment>
+  <img
+    src="https://www.placecage.com/c/140/200"
+  />
+  <h3>
+    test
+  </h3>
+</DocumentFragment>
+`;
